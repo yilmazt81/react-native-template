@@ -1,0 +1,8 @@
+{
+  "name": "react-native-template-newProject",
+  "version": "0.0.1",
+  "description": "React Native Template",
+  "repository": "git@github.com:yilmazt81/react-native-template-newProject.git",
+  "author": "turk yilmaz Ozkan <turk.yilmazt81@gmail.com>",
+  "license": "MIT"
+}
